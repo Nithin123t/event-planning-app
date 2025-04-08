@@ -1,0 +1,20 @@
+.calendar-container {
+    max-width: 800px;
+    margin: auto;
+    margin-top: 30px;
+  }
+  
+  .tile-events {
+    margin-top: 5px;
+  }
+  
+  .event-dot {
+    background-color: #4caf50;
+    color: white;
+    font-size: 10px;
+    padding: 2px 4px;
+    margin-top: 2px;
+    border-radius: 4px;
+    text-align: center;
+  }
+  
